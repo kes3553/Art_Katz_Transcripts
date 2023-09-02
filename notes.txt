@@ -1,0 +1,15 @@
+- These transcripts were all generated with AI (Whisper AI, medium model), so they aren't perfect. There are some errors, but they are probably 99% acurate.
+
+- The punctuation and paragraph breaks were extremely difficult to get correct. Either my programming or AI is not powerful enough at this point to correct this. (Probably my programming) Perhaps in the next year or two AI will be more powerful and I can correct this.
+
+- The timestamps listed are only approximates unfortunately, I think I found a way to resolve this, but I didn't want to transcribe all of the sermons again. (It took my computer almost 300 hours)
+
+- This website is being hosted for free and so you might experience problems if too many people are using it.
+
+- Also, since I broke the file up into timestamps like this:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;41:37 -  in the wilderness prophet Elijah being fed by a
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;41:43 -  widow woman with the last of her flour and her oil.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;41:49 -  He says, feed me first. And because she did, her oil did not cease
+If you search for “Elijah being fed by a widow” it will not be found, because it’s being divided by 41:43. It would’ve been nice to have timestamps at the beginning of each sentence, but that wasn’t possible.
+
+- If you find any problems, please let me know. Also if you take the time to proofread any of the transcripts and correct them, you can submit them to me and I'll be happy to update the files here.
